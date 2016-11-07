@@ -9,6 +9,10 @@ tags:
 categories:
   - "Meetup"
 ---
+Rancher Meetup Tokyo #1 のレポートです。
+
+snickerjp さんが書いたRancher Meetup Tokyo #1 のレポートを掲載します。
+
 
 今熱い盛り上がりを見せているRANCHERの勉強会「Rancher Meetup Tokyo #1」参加レポート！  
 http://snickerjp.blogspot.jp/2016/10/rancher-meetup-tokyo-vol1.html
